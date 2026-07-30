@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/demo-ado-migrate/f9ae9c97-9712-4cea-9bb0-7fee626041ce/5a24bb11-bc8e-4b73-ad1a-055c21575faa/_apis/work/boardbadge/499adf27-c2bd-4a63-83e8-ed05e00b48a4)](https://dev.azure.com/demo-ado-migrate/f9ae9c97-9712-4cea-9bb0-7fee626041ce/_boards/board/t/5a24bb11-bc8e-4b73-ad1a-055c21575faa/Microsoft.RequirementCategory)
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
 This Microsoft reference application is now being maintained by [NimblePros](https://nimblepros.com/).
